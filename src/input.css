@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+  --color-slateDeep: #0f172a;
+  --color-slateCard: #1e293b;
+  --color-electricBlue: #2563eb;
+  --color-electricBright: #3b82f6;
+  --color-slateGray: #64748b;
+  --color-slateLight: #94a3b8;
+  --color-bgLight: #f8fafc;
+
+  --font-sans: "Noto Sans", sans-serif;
+}
